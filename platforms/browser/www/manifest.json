@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Corcova",
+  "short_name": "Corcova",
+  "version": "com.testmobile.app",
+  "description": "Coba Cordova",
+  "author": "Juke Solutions",
+  "icons": [],
+  "start_url": "index.html"
+}
